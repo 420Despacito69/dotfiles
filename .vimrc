@@ -1,4 +1,4 @@
-" all credit goes to gitlab.com/smokals for this incredible config
+" all credit goes to gitlab.com/smokals for this incredible config ____________________WHY ARE U STEALING OTHERS WORK?, Thats kinda gay
 " make sure you have vimplug installed
 
 call plug#begin()
